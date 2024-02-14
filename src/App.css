@@ -1,0 +1,14 @@
+
+.todo{
+  background:rgb(11, 0, 71);
+  color: white;
+  text-align: center;
+}
+.todo-input{
+  margin-top: 20px;
+  display: flex;
+}
+.list{
+  margin-top: 30px;
+  background-color: gray;
+}
